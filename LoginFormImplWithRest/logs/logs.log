@@ -1,0 +1,68 @@
+2022-05-28 00:48:43 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h30s87ms958µs400ns).
+2022-05-28 15:14:29 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14h26m2s339ms987µs700ns).
+2022-05-28 15:48:31 HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m31s755ms300µs).
+2022-05-28 15:50:45 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-28 15:50:45 HikariPool-1 - Shutdown initiated...
+2022-05-28 15:50:45 HikariPool-1 - Shutdown completed.
+2022-05-28 15:50:45 Starting LoginFormImplWithRestApplication using Java 1.8.0_144 on pc with PID 12568 (D:\stswkspc\LoginFormImplWithRest\target\classes started by Ashok in D:\stswkspc\LoginFormImplWithRest)
+2022-05-28 15:50:45 No active profile set, falling back to 1 default profile: "default"
+2022-05-28 15:50:45 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-28 15:50:45 Finished Spring Data repository scanning in 16 ms. Found 2 JPA repository interfaces.
+2022-05-28 15:50:46 Tomcat initialized with port(s): 8181 (http)
+2022-05-28 15:50:46 Starting service [Tomcat]
+2022-05-28 15:50:46 Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-05-28 15:50:46 At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2022-05-28 15:50:46 Initializing Spring embedded WebApplicationContext
+2022-05-28 15:50:46 Root WebApplicationContext: initialization completed in 525 ms
+2022-05-28 15:50:46 HikariPool-2 - Starting...
+2022-05-28 15:50:46 HikariPool-2 - Start completed.
+2022-05-28 15:50:46 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-28 15:50:46 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-28 15:50:47 LiveReload server is running on port 35729
+2022-05-28 15:50:47 Tomcat started on port(s): 8181 (http) with context path ''
+2022-05-28 15:50:47 Started LoginFormImplWithRestApplication in 1.427 seconds (JVM running for 66114.302)
+2022-05-28 15:50:47 Condition evaluation unchanged
+2022-05-28 15:50:47 Starting LoginFormImplWithRestApplicationTests using Java 1.8.0_144 on pc with PID 5224 (started by Ashok in D:\stswkspc\LoginFormImplWithRest)
+2022-05-28 15:50:47 No active profile set, falling back to 1 default profile: "default"
+2022-05-28 15:50:48 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-28 15:50:48 Finished Spring Data repository scanning in 105 ms. Found 2 JPA repository interfaces.
+2022-05-28 15:50:48 HikariPool-1 - Starting...
+2022-05-28 15:50:49 HikariPool-1 - Start completed.
+2022-05-28 15:50:51 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-28 15:50:52 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-28 15:50:52 Started LoginFormImplWithRestApplicationTests in 6.476 seconds (JVM running for 8.397)
+2022-05-28 15:50:53 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-28 15:50:53 HikariPool-1 - Shutdown initiated...
+2022-05-28 15:50:53 HikariPool-1 - Shutdown completed.
+2022-05-28 15:52:11 Starting LoginFormImplWithRestApplicationTests using Java 1.8.0_144 on pc with PID 14428 (started by Ashok in D:\stswkspc\LoginFormImplWithRest)
+2022-05-28 15:52:11 No active profile set, falling back to 1 default profile: "default"
+2022-05-28 15:52:12 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-28 15:52:12 Finished Spring Data repository scanning in 66 ms. Found 2 JPA repository interfaces.
+2022-05-28 15:52:13 HikariPool-1 - Starting...
+2022-05-28 15:52:13 HikariPool-1 - Start completed.
+2022-05-28 15:52:15 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-28 15:52:16 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-28 15:52:16 Started LoginFormImplWithRestApplicationTests in 5.785 seconds (JVM running for 7.196)
+2022-05-28 15:52:17 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-28 15:52:17 HikariPool-1 - Shutdown initiated...
+2022-05-28 15:52:17 HikariPool-1 - Shutdown completed.
+2022-05-28 16:10:50 Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-05-28 16:10:50 Initializing Servlet 'dispatcherServlet'
+2022-05-28 16:10:50 Completed initialization in 7 ms
+2022-05-28 16:53:53 Application shutdown requested.
+2022-05-28 16:53:53 Application shutdown requested.
+2022-05-28 16:53:54 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-28 16:53:54 HikariPool-2 - Shutdown initiated...
+2022-05-28 16:53:54 HikariPool-2 - Shutdown completed.
+2022-05-28 16:55:23 Starting LoginFormImplWithRestApplicationTests using Java 1.8.0_144 on pc with PID 17136 (started by Ashok in D:\stswkspc\LoginFormImplWithRest)
+2022-05-28 16:55:23 No active profile set, falling back to 1 default profile: "default"
+2022-05-28 16:55:24 Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-05-28 16:55:24 Finished Spring Data repository scanning in 67 ms. Found 2 JPA repository interfaces.
+2022-05-28 16:55:25 HikariPool-1 - Starting...
+2022-05-28 16:55:25 HikariPool-1 - Start completed.
+2022-05-28 16:55:27 Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-05-28 16:55:28 spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-28 16:55:29 Started LoginFormImplWithRestApplicationTests in 6.649 seconds (JVM running for 8.521)
+2022-05-28 16:55:30 Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-05-28 16:55:30 HikariPool-1 - Shutdown initiated...
+2022-05-28 16:55:30 HikariPool-1 - Shutdown completed.
